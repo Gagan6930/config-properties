@@ -1,5 +1,4 @@
-server:
-  port: 8082
+
 spring:
   boot:
     admin:
@@ -10,3 +9,4 @@ management:
     web:
       exposure:
         include: "*"
+message: "this is a demo message form the github file"
