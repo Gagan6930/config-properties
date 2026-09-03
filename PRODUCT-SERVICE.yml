@@ -1,11 +1,8 @@
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/restapi
-  datasource:
     username: root
-  datasource:
     password: Suma
-  datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
